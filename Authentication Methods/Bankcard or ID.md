@@ -1,0 +1,1 @@
+Opties om via bankkaart/id scanner?

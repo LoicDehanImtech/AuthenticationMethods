@@ -1,0 +1,8 @@
+{
+  "accentColor": "#6fc3bd",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Headings"
+  ]
+}

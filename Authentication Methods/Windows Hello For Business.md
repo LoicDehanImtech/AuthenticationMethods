@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/how-it-works-authentication
+Windows Hello for Business authentication is a passwordless, two-factor authentication. Authenticating with Windows Hello for Business provides a convenient sign-in experience that authenticates the user to both Microsoft Entra ID and Active Directory resources.
+
+Microsoft Entra joined devices authenticate to Microsoft Entra ID during sign-in and can, optionally, authenticate to Active Directory. Microsoft Entra hybrid joined devices authenticate to Active Directory during sign-in, and authenticate to Microsoft Entra ID in the background.

@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "2488533b3655e54c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dbbb85f441cb083",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e407fb771b72639e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Item Options/Card Readers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Card Readers"
+            }
+          },
+          {
+            "id": "208501e39fbcff8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physical Item Options/Smart Cards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smart Cards"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78fb5d5dd2e80a8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d7f97e9adcf4eb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ed62ab3ccc19627",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a0fe507542c34795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "80578b9dbb69866e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 475.5
+  },
+  "right": {
+    "id": "c5a218350d6ff0ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab7474e6ec946384",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb71f5433983d47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physical Item Options/Card Readers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Card Readers"
+            }
+          },
+          {
+            "id": "bbe2f18860891a0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physical Item Options/Card Readers.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Card Readers"
+            }
+          },
+          {
+            "id": "fd44fca1c25c58d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8234f936cdef01a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physical Item Options/Card Readers.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Card Readers"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "208501e39fbcff8d",
+  "lastOpenFiles": [
+    "Authentication Methods/PKI based Smart Cards.md",
+    "Certificate Based Authentication/Storage Of Keys.md",
+    "Certificate Based Authentication/Omzeilen van de standaard flow.md",
+    "Certificate Based Authentication/Trusted Platform Module.md",
+    "Physical Item Options/Smart Cards.md",
+    "Physical Item Options/Card Readers.md",
+    "Authentication Methods/Password.md",
+    "Windows Active Directory/Run As.md",
+    "Authentication Methods/RFID-based key card readers.md",
+    "Authentication Methods/Smart Phone.md",
+    "Authentication Methods/Biometrics in Windows.md",
+    "Authentication Methods/Authentication Methods.md",
+    "Authentication Methods/Bankcard or ID.md",
+    "Authentication Methods/Biometrics.md",
+    "Authentication Methods/Local Username + Password.md",
+    "Authentication Methods/Windows Hello For Business.md",
+    "Azure AD - Microsoft Entra/Certificate Based Authentication In Azure.md",
+    "Azure AD - Microsoft Entra/Azure Authentication Token.md",
+    "Azure AD - Microsoft Entra/JSON Web Token (JWT).md",
+    "Project Requirements/Additional security.md",
+    "Project Requirements/Authentication vs Identification.md",
+    "Project Requirements/Proposed Methods.md",
+    "Project Requirements/Requirements And Goal.md",
+    "Project Requirements/Practical Limitations.md",
+    "Physical Item Options",
+    "Project Requirements/USB Port Sharing.md",
+    "Azure AD - Microsoft Entra/Single Sign On (SSO).md",
+    "Project Requirements",
+    "Authentication Methods",
+    "Certificate Based Authentication",
+    "Azure AD - Microsoft Entra",
+    "Windows Active Directory"
+  ]
+}

@@ -1,0 +1,1 @@
+**Aangezien al de thin clients naar dezelfde computer (windows server gaan) is het mogelijk om alle lokale users te gebruiken programmatisch via ‘Run As’ achtige implementatie.**
