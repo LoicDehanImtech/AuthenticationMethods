@@ -104,3 +104,20 @@ Strength
 | **AspNetCore.Identity** | ✅ Full         | ✅ Full       | ✅ Full         | ✅ Full | ~4KB + Framework    |
 | **Argon2 (Konscious)**  | ⚠️ Limited RAM | ✅ Full       | ⚠️ Limited RAM | ✅ Full | 64MB-1GB+           |
 | **scrypt.NET**          | ⚠️ Limited RAM | ✅ Full       | ⚠️ Limited RAM | ✅ Full | 16MB-1GB            |
+
+
+
+
+## Multi-Algo: 
+1 .NetDevPack.Security.PasswordHasher
+https://github.com/NetDevPack/Security.PasswordHasher
+.Net 8.0 or later
+
+2.  https://www.nuget.org/packages/CryptSharpOfficial
+- **No dependencies**: This package has no dependencies. [NuGet Gallery | CryptSharpOfficial 2.1.0](https://www.nuget.org/packages/CryptSharpOfficial)
+- **Multiple algorithms**: BCrypt, scrypt, PBKDF2, SHA256/512, etc.
+- **Auto-detection**: Can verify passwords without knowing which algorithm was used
+- **Mature**: Been around since 2010, actively maintained
+- **Code-signed**: I now code-sign the CryptSharp DLL so you can confirm it is unaltered.
+- 
+using CryptSharp; // Hash with BCrypt string bcryptHash = Crypter.Blowfish.Crypt("password"); // Hash with scrypt (via PHPass) string scryptHash = Crypter.Phpass.Crypt("password"); // Hash with SHA256 string sha256Hash = Crypter.Sha256.Crypt("password"); // Verify any algorithm (auto-detects!) bool isValid = Crypter.CheckPassword("password", hash);
