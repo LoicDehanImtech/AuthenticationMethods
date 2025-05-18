@@ -13,27 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Credential store.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows Credential store"
-            }
-          },
-          {
-            "id": "208501e39fbcff8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Credential store.md",
+                "file": "Hashing Libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Credential store"
+              "title": "Hashing Libraries"
             }
           }
         ]
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physical Item Options/Card Readers.md",
+                "file": "Hashing Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Card Readers"
+              "title": "Backlinks for Hashing Libraries"
             }
           },
           {
@@ -170,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,32 +169,33 @@
   },
   "active": "e407fb771b72639e",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Hashing Libraries.md",
-    "2025-05-16.md",
-    "Implementatie.md",
     "Windows Credential store.md",
+    "Hashing Libraries.md",
+    "Untitled.canvas",
+    "2025-05-16.md",
     "Conclusie.md",
-    "Windows Active Directory/What is Accessible Via UPN.md",
-    "Project Requirements/Practical Limitations.md",
-    "Project Requirements/Connect USB-Device to Server.md",
-    "Project Requirements/Authentication vs Identification.md",
-    "Project Requirements/Additional security.md",
-    "Azure AD - Microsoft Entra/JSON Web Token (JWT).md",
-    "Azure AD - Microsoft Entra/Single Sign On (SSO).md",
-    "Physical Item Options/Smart Cards.md",
     "Physical Item Options/Card Readers.md",
+    "Physical Item Options/Smart Cards.md",
+    "transfer.md",
+    "Azure AD - Microsoft Entra/Single Sign On (SSO).md",
+    "Authentication Methods/PKI based Smart Cards.md",
     "Certificate Based Authentication/Storage Of Keys.md",
+    "Certificate Based Authentication/Omzeilen van de standaard flow.md",
     "Certificate Based Authentication/Trusted Platform Module.md",
-    "Authentication Methods/Auth Keys.md",
+    "Authentication Methods/Password.md",
+    "Windows Active Directory/Run As.md",
+    "Authentication Methods/RFID-based key card readers.md",
+    "Authentication Methods/Smart Phone.md",
+    "Authentication Methods/Biometrics in Windows.md",
     "Authentication Methods/Authentication Methods.md",
     "Authentication Methods/Bankcard or ID.md",
     "Authentication Methods/Biometrics.md",
-    "Authentication Methods/Biometrics in Windows.md",
-    "Authentication Methods/PKI based Smart Cards.md",
-    "Authentication Methods/RFID-based key card readers.md",
-    "Authentication Methods/Smart Phone.md",
+    "Authentication Methods/Local Username + Password.md",
     "Authentication Methods/Windows Hello For Business.md",
+    "Azure AD - Microsoft Entra/Certificate Based Authentication In Azure.md",
+    "Azure AD - Microsoft Entra/Azure Authentication Token.md",
+    "Azure AD - Microsoft Entra/JSON Web Token (JWT).md",
+    "Project Requirements/Additional security.md",
     "Physical Item Options",
     "Project Requirements",
     "Authentication Methods",
