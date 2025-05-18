@@ -13,13 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conclusie.md",
+                "file": "Hashing Libraries.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Conclusie"
+              "title": "Hashing Libraries"
             }
           }
         ]
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physical Item Options/Card Readers.md",
+                "file": "Hashing Libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Card Readers"
+              "title": "Backlinks for Hashing Libraries"
             }
           },
           {
@@ -156,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,8 +169,11 @@
   },
   "active": "e407fb771b72639e",
   "lastOpenFiles": [
-    "Physical Item Options/Card Readers.md",
+    "Hashing Libraries.md",
+    "Untitled.canvas",
+    "2025-05-16.md",
     "Conclusie.md",
+    "Physical Item Options/Card Readers.md",
     "Physical Item Options/Smart Cards.md",
     "transfer.md",
     "Azure AD - Microsoft Entra/Single Sign On (SSO).md",
@@ -195,8 +196,6 @@
     "Azure AD - Microsoft Entra/JSON Web Token (JWT).md",
     "Project Requirements/Additional security.md",
     "Project Requirements/Authentication vs Identification.md",
-    "Project Requirements/Proposed Methods.md",
-    "Project Requirements/Requirements And Goal.md",
     "Physical Item Options",
     "Project Requirements",
     "Authentication Methods",

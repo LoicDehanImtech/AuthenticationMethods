@@ -1,5 +1,5 @@
 
-Biometrics built-in windows: Vast gebonden aan de actieve sessie. Niet mogelijk om te omzeilen vie impersenation/run-as/etc. 
+Biometrics built-in windows: Vast gebonden aan de actieve sessie. Niet mogelijk om te omzeilen vie impersonation/run-as/etc. 
 -> Indien biometrics moet het zelf geïmplementeerd worden
 -(Finger/Palm/Face/Voice/pin)
 ## Categorie 1: Identificatie met optionele Authenticatie
