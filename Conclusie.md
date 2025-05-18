@@ -24,7 +24,7 @@ Identificatie via:
 1. PKI smart card
 2. NFC smart phone -> Unlock voor authenticatie
 3. **QR-Code + Smart Phone**
-
+4. 3de Partij bv. Azure AD -> Windows AD SID in JWT token om te linken
 
 
 
@@ -46,3 +46,12 @@ Physieke scanners:
 
 - **Fallback Mechanisms:** What happens if the primary method fails (e.g., user forgets PIN, loses smart card/phone, biometric reader malfunctions)?
 - -> Optie om toch wachtwoord in te geven
+
+
+
+
+Interactie me Microsoft Entra ID (Azure AD) of andere 3de partij
+- Windows AD registreren als Certificate Authority.
+- Authenticate User against Windows AD
+- CBA van Windows AD naar 3de Partij
+	- (Certificate, Challenge, Decrypt, receive token)

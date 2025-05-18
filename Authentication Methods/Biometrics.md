@@ -1,3 +1,7 @@
+Moeilijk om enkel biometrics te doen. -> Moet ergens een naam selecteren om te weten met wiens biometrics je wilt vergelijken.
+
+Tenzij je het volledig zelf implementeert en vergelijkt tegen allemaal. (Windows Hello vergelijkt max tegen 1 persoon tegelijk)
+
 [[Biometrics in Windows]]
 **-> Should be able to retrieve SID** ?
 - https://learn.microsoft.com/en-us/windows/win32/api/winbio/nf-winbio-winbioidentify 
