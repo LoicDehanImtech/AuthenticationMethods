@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conclusie.md",
+                "file": "Windows Credential store.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Conclusie"
+              "title": "Windows Credential store"
             }
           },
           {
@@ -185,9 +185,13 @@
   },
   "active": "e407fb771b72639e",
   "lastOpenFiles": [
-    "Windows Active Directory/What is Accessible Via UPN.md",
-    "Conclusie.md",
+    "Untitled.canvas",
+    "Hashing Libraries.md",
+    "2025-05-16.md",
+    "Implementatie.md",
     "Windows Credential store.md",
+    "Conclusie.md",
+    "Windows Active Directory/What is Accessible Via UPN.md",
     "Project Requirements/Practical Limitations.md",
     "Project Requirements/Connect USB-Device to Server.md",
     "Project Requirements/Authentication vs Identification.md",
@@ -207,10 +211,6 @@
     "Authentication Methods/RFID-based key card readers.md",
     "Authentication Methods/Smart Phone.md",
     "Authentication Methods/Windows Hello For Business.md",
-    "Azure AD - Microsoft Entra/Azure Authentication Token.md",
-    "Azure AD - Microsoft Entra/Certificate Based Authentication In Azure.md",
-    "Certificate Based Authentication/Authenticatie Call Recreëren.md",
-    "Certificate Based Authentication/Authentication Flow - Encryption,Decryption Flow.md",
     "Physical Item Options",
     "Project Requirements",
     "Authentication Methods",

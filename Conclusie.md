@@ -20,6 +20,10 @@ Restricties door constraints:
 3. Oude windows installaties geen windows hello (Biometrics/pin)
 4. Fabriek omstandigheden(Bv. Stof): geen fysieke scanners:
 	- zorgen voor problemen bij herhaaldelijk gebruik van fysieke scanners. Bv. FIDO (USB) key, Contact cards, fingerprints
+
+Biometrics built-in windows: Vast gebonden aan de actieve sessie. Niet mogelijk om te omzeilen vie impersonation/run-as/etc. 
+-> Indien biometrics moet het zelf geïmplementeerd worden
+-(Finger/Palm/Face/Voice/pin)
 ## Categorie 1: Identificatie met optionele Authenticatie
 Windows Credential store
 	- Eenmalig username + wachtwoord registreren op server
